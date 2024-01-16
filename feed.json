@@ -7,10 +7,37 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/01/15/finished-reading-dickens.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593541821\">Dickens and Prince</a> by Nick Hornby.  It&rsquo;s a niche one for sure, but right up my alley. These two geniuses had more in common than first meets the eye. 📚</p>\n",
+				"content_text": "Finished reading: [Dickens and Prince](https://micro.blog/books/9780593541821) by Nick Hornby.  It's a niche one for sure, but right up my alley. These two geniuses had more in common than first meets the eye. 📚\n",
+				"date_published": "2024-01-15T22:38:11+01:00",
+				"url": "https://www.olisharman.com/2024/01/15/finished-reading-dickens.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/01/14/whoa-were-half.html",
+				
+				"content_html": "<p>Whoa, we’re half way there 🎶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Whoa, we’re half way there 🎶\n\n<img src=\"uploads/2024/957f7de2e1.jpg\" width=\"600\" height=\"600\" alt=\"A blue and white cappella on the coast directly in front of the ocean.\">\n",
+				"date_published": "2024-01-14T13:49:18+01:00",
+				"url": "https://www.olisharman.com/2024/01/14/whoa-were-half.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/01/12/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781585425525\">The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free Play</a> by Neil A. Fiore 📚</p>\n",
+				"content_text": "Finished reading: [The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free Play](https://micro.blog/books/9781585425525) by Neil A. Fiore 📚\n",
+				"date_published": "2024-01-12T14:28:16+01:00",
+				"url": "https://www.olisharman.com/2024/01/12/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/01/10/learning-how-to.html",
-				"title": "Learning How to Learn",
-				"content_html": "<p>Finished working my way through the <a href=\"https://www.coursera.org/learn/learning-how-to-learn\">Learning How to Learn</a> course on Coursera. This was recommended as a helpful resource at the start of <a href=\"https://www.theodinproject.com/\">The Odin Project</a>.</p>\n<p>So much depth. Great for anybody looking to learn something new and study more effectively, especially if you&rsquo;re procrastinating or finding your subject difficult to wrestle with.</p>\n",
-				"content_text": "Finished working my way through the [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) course on Coursera. This was recommended as a helpful resource at the start of [The Odin Project](https://www.theodinproject.com/). \n\nSo much depth. Great for anybody looking to learn something new and study more effectively, especially if you're procrastinating or finding your subject difficult to wrestle with.\n",
+				
+				"content_html": "<p>Finished working my way through the <a href=\"https://www.coursera.org/learn/learning-how-to-learn\">Learning How to Learn</a> course on Coursera. This was recommended as a helpful resource at the start of <a href=\"https://www.theodinproject.com/\">The Odin Project</a>.</p>\n<p>So much depth. It&rsquo;s great for anybody looking to learn something new and study more effectively, especially if you&rsquo;re procrastinating or finding your subject difficult to wrestle with.</p>\n",
+				"content_text": "Finished working my way through the [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) course on Coursera. This was recommended as a helpful resource at the start of [The Odin Project](https://www.theodinproject.com/). \n\nSo much depth. It's great for anybody looking to learn something new and study more effectively, especially if you're procrastinating or finding your subject difficult to wrestle with.\n",
 				"date_published": "2024-01-10T15:13:17+01:00",
 				"url": "https://www.olisharman.com/2024/01/10/learning-how-to.html",
 				"tags": ["webdev"]
