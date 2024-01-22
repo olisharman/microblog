@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/01/22/enrolled-in-harvards.html",
+				
+				"content_html": "<p>Enrolled in Harvard&rsquo;s <a href=\"https://cs50.harvard.edu/x/2024/\">CS50x: Introduction to Computer Science</a> course. Enjoyed working through an older version of this years ago before abandoning it about halfway through. Let&rsquo;s see if I can make it to the end this time around.</p>\n",
+				"content_text": "Enrolled in Harvard's [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/x/2024/) course. Enjoyed working through an older version of this years ago before abandoning it about halfway through. Let's see if I can make it to the end this time around.\n",
+				"date_published": "2024-01-22T16:25:27+01:00",
+				"url": "https://www.olisharman.com/2024/01/22/enrolled-in-harvards.html",
+				"tags": ["webdev"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/01/15/finished-reading-dickens.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593541821\">Dickens and Prince</a> by Nick Hornby.  It&rsquo;s a niche one for sure, but right up my alley. These two geniuses had more in common than first meets the eye. 📚</p>\n",
@@ -100,7 +109,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/01/this-paddle-boarder.html",
 				
 				"content_html": "<p>This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this. \n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/6a07b12ed9.jpg\" width=\"600\" height=\"600\" alt=\"Paddle boarder alone in a calm sea.\">\n",
+				"content_text": "This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this. \n\n<img src=\"uploads/2024/6a07b12ed9.jpg\" width=\"600\" height=\"600\" alt=\"Paddle boarder alone in a calm sea.\">\n",
 				"date_published": "2024-01-01T18:18:05+01:00",
 				"url": "https://www.olisharman.com/2024/01/01/this-paddle-boarder.html",
 				"tags": ["photos"]
