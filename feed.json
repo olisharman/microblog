@@ -7,10 +7,27 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/01/28/italian-sundays-are.html",
+				
+				"content_html": "<p>Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.\n\n<img src=\"uploads/2024/a928c04b01.jpg\" width=\"600\" height=\"600\" alt=\"The front of Santa Croce church in Lecce, Italy\">\n",
+				"date_published": "2024-01-28T17:31:32+01:00",
+				"url": "https://www.olisharman.com/2024/01/28/italian-sundays-are.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/01/25/hit-a-day.html",
+				
+				"content_html": "<p>Hit a 77-day streak on <a href=\"https://www.duolingo.com\">Duolingo</a> today. The gamification of studying Italian is working wonders. Duolingo has become a daily habit, and this also trickles through to other tools I’m using to learn Italian. Wish I found this app years ago.</p>\n",
+				"content_text": "Hit a 77-day streak on [Duolingo](https://www.duolingo.com) today. The gamification of studying Italian is working wonders. Duolingo has become a daily habit, and this also trickles through to other tools I’m using to learn Italian. Wish I found this app years ago. \n",
+				"date_published": "2024-01-25T15:52:54+01:00",
+				"url": "https://www.olisharman.com/2024/01/25/hit-a-day.html"
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/01/22/enrolled-in-harvards.html",
 				
-				"content_html": "<p>Enrolled in Harvard&rsquo;s <a href=\"https://cs50.harvard.edu/x/2024/\">CS50x: Introduction to Computer Science</a> course. Enjoyed working through an older version of this years ago before abandoning it about halfway through. Let&rsquo;s see if I can make it to the end this time around.</p>\n",
-				"content_text": "Enrolled in Harvard's [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/x/2024/) course. Enjoyed working through an older version of this years ago before abandoning it about halfway through. Let's see if I can make it to the end this time around.\n",
+				"content_html": "<p>Enrolled in Harvard&rsquo;s <a href=\"https://cs50.harvard.edu/x/2024/\">CS50x: Introduction to Computer Science</a> course. Enjoyed working through an older version of this years ago before abandoning it about halfway. Let&rsquo;s see if I can make it to the end this time around.</p>\n",
+				"content_text": "Enrolled in Harvard's [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/x/2024/) course. Enjoyed working through an older version of this years ago before abandoning it about halfway. Let's see if I can make it to the end this time around.\n",
 				"date_published": "2024-01-22T16:25:27+01:00",
 				"url": "https://www.olisharman.com/2024/01/22/enrolled-in-harvards.html",
 				"tags": ["webdev"]
