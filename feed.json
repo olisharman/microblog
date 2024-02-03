@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/02/01/cant-remember-how.html",
+				
+				"content_html": "<p>Can’t remember how I stumbled upon <a href=\"https://www.theodinproject.com\">The Odin Project</a> web development curriculum, but I’m glad I did.</p>\n<p>I like the way it points you where to go to dig deeper into the topics, and it offers a nice blend of different learning materials and assignments.</p>\n<p>I find it way easier to learn new things by reading about them instead of watching videos. Pissed that it’s taken me so long to figure that out. I think this is one of the main reasons why I’m having more success with this course compared to other ones I’ve tried in the past.</p>\n<p>Need to decide whether to progress to Ruby on Rails or full stack JavaScript. I guess sticking with JavaScript should offer a deeper knowledge of the language but I heard that Ruby is a joy and Rails makes it easy to do a lot on your own.</p>\n<p>I find myself at a fork in the road, and my research is all getting a bit <a href=\"https://www.poetryfoundation.org/poems/44272/the-road-not-taken\">Robert Frost</a>, but I’m trying not to take too much time mulling it over. To borrow a phrase from <a href=\"https://jamesclear.com/3-2-1/february-1-2024\">James Clear&rsquo;s newsletter</a> today, I think this decision is more of a hat than a haircut or a tattoo.</p>\n",
+				"content_text": "Can’t remember how I stumbled upon [The Odin Project](https://www.theodinproject.com) web development curriculum, but I’m glad I did. \n\nI like the way it points you where to go to dig deeper into the topics, and it offers a nice blend of different learning materials and assignments.\n\nI find it way easier to learn new things by reading about them instead of watching videos. Pissed that it’s taken me so long to figure that out. I think this is one of the main reasons why I’m having more success with this course compared to other ones I’ve tried in the past.\n\nNeed to decide whether to progress to Ruby on Rails or full stack JavaScript. I guess sticking with JavaScript should offer a deeper knowledge of the language but I heard that Ruby is a joy and Rails makes it easy to do a lot on your own.  \n\nI find myself at a fork in the road, and my research is all getting a bit [Robert Frost](https://www.poetryfoundation.org/poems/44272/the-road-not-taken), but I’m trying not to take too much time mulling it over. To borrow a phrase from [James Clear's newsletter](https://jamesclear.com/3-2-1/february-1-2024) today, I think this decision is more of a hat than a haircut or a tattoo. \n\n",
+				"date_published": "2024-02-01T22:01:02+01:00",
+				"url": "https://www.olisharman.com/2024/02/01/cant-remember-how.html",
+				"tags": ["webdev"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/01/28/italian-sundays-are.html",
 				
 				"content_html": "<p>Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.</p>\n<!-- raw HTML omitted -->\n",
