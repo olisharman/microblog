@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/02/09/the-merlin-bird.html",
+				
+				"content_html": "<p>The <a href=\"https://merlin.allaboutbirds.org\">Merlin Bird ID app</a> really is a remarkable piece of kit. Its <a href=\"https://merlin.allaboutbirds.org/sound-id/\">Sound ID</a> feature tells you the type of bird you can hear after recording only a few seconds of song. Works more often than not for me here in Italy, even when the bird song is quite faint.</p>\n",
+				"content_text": "The [Merlin Bird ID app](https://merlin.allaboutbirds.org) really is a remarkable piece of kit. Its [Sound ID](https://merlin.allaboutbirds.org/sound-id/) feature tells you the type of bird you can hear after recording only a few seconds of song. Works more often than not for me here in Italy, even when the bird song is quite faint. \n",
+				"date_published": "2024-02-09T15:32:47+01:00",
+				"url": "https://www.olisharman.com/2024/02/09/the-merlin-bird.html"
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/02/07/finished-reading-wild.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780712602914\">Wild Mind</a> by Natalie Goldberg. This book was recommended at a poetry event I attended a few months back. Thought-provoking advice on the craft of writing, scattered with a dash of memoir and lots of good prompts to fight the blank page.  📚</p>\n",
+				"content_text": "Finished reading: [Wild Mind](https://micro.blog/books/9780712602914) by Natalie Goldberg. This book was recommended at a poetry event I attended a few months back. Thought-provoking advice on the craft of writing, scattered with a dash of memoir and lots of good prompts to fight the blank page.  📚\n",
+				"date_published": "2024-02-07T19:54:57+01:00",
+				"url": "https://www.olisharman.com/2024/02/07/finished-reading-wild.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/02/01/cant-remember-how.html",
 				
 				"content_html": "<p>Can’t remember how I stumbled upon <a href=\"https://www.theodinproject.com\">The Odin Project</a> web development curriculum, but I’m glad I did.</p>\n<p>I like the way it points you where to go to dig deeper into the topics, and it offers a nice blend of different learning materials and assignments.</p>\n<p>I find it way easier to learn new things by reading about them instead of watching videos. Pissed that it’s taken me so long to figure that out. I think this is one of the main reasons why I’m having more success with this course compared to other ones I’ve tried in the past.</p>\n<p>Need to decide whether to progress to Ruby on Rails or full stack JavaScript. I guess sticking with JavaScript should offer a deeper knowledge of the language but I heard that Ruby is a joy and Rails makes it easy to do a lot on your own.</p>\n<p>I find myself at a fork in the road, and my research is all getting a bit <a href=\"https://www.poetryfoundation.org/poems/44272/the-road-not-taken\">Robert Frost</a>, but I’m trying not to take too much time mulling it over. To borrow a phrase from <a href=\"https://jamesclear.com/3-2-1/february-1-2024\">James Clear&rsquo;s newsletter</a> today, I think this decision is more of a hat than a haircut or a tattoo.</p>\n",
