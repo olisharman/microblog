@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/02/13/interesting-to-hear.html",
+				
+				"content_html": "<p>Interesting to hear Malcolm Gladwell talk about his writing process on <a href=\"https://www.masterclass.com/classes/malcolm-gladwell-teaches-writing\">MasterClass</a>.</p>\n<p>He shared how he breaks every piece of writing down into small, numbered sections before stringing it all together and figuring out what goes where and working on transitions. He didn&rsquo;t mean sections like chapters in a book or even subheadings in an article, he suggested that his sections are often far more granular than that.</p>\n<p>Sounds pretty basic. But this approach makes large, intimidating projects easier to handle. It also helps build a feeling of ongoing momentum. I do something similar but without the numbers. Think I&rsquo;ll give the numbers a go.</p>\n",
+				"content_text": "Interesting to hear Malcolm Gladwell talk about his writing process on [MasterClass](https://www.masterclass.com/classes/malcolm-gladwell-teaches-writing). \n\nHe shared how he breaks every piece of writing down into small, numbered sections before stringing it all together and figuring out what goes where and working on transitions. He didn't mean sections like chapters in a book or even subheadings in an article, he suggested that his sections are often far more granular than that. \n\nSounds pretty basic. But this approach makes large, intimidating projects easier to handle. It also helps build a feeling of ongoing momentum. I do something similar but without the numbers. Think I'll give the numbers a go. \n",
+				"date_published": "2024-02-13T23:55:38+01:00",
+				"url": "https://www.olisharman.com/2024/02/13/interesting-to-hear.html",
+				"tags": ["thoughts","writing"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/02/13/234559.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593652886\">The Creative Act</a> by Rick Rubin 📚</p>\n",
+				"content_text": "Finished reading: [The Creative Act](https://micro.blog/books/9780593652886) by Rick Rubin 📚\n",
+				"date_published": "2024-02-13T23:45:59+01:00",
+				"url": "https://www.olisharman.com/2024/02/13/234559.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/02/13/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781635579994\">The Madness of Crowds</a> by Douglas Murray 📚</p>\n",
+				"content_text": "Finished reading: [The Madness of Crowds](https://micro.blog/books/9781635579994) by Douglas Murray 📚\n",
+				"date_published": "2024-02-13T23:45:39+01:00",
+				"url": "https://www.olisharman.com/2024/02/13/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/02/12/finished-reading-naples.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781480433250\">Naples &lsquo;44</a> by Norman Lewis 📚</p>\n",
+				"content_text": "Finished reading: [Naples '44](https://micro.blog/books/9781480433250) by Norman Lewis 📚\n",
+				"date_published": "2024-02-12T17:56:55+01:00",
+				"url": "https://www.olisharman.com/2024/02/12/finished-reading-naples.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/02/10/this-has-been.html",
+				
+				"content_html": "<p>This has been a year of discovering American sports. Feels like they never stop, except for the ads. Chose Chicago as my base, don&rsquo;t ask me why. It amazes me how frequently Americans stop me in the street to talk about the Cubs when I&rsquo;m out in my cap, even in some of the most remote corners of Europe.</p>\n",
+				"content_text": "This has been a year of discovering American sports. Feels like they never stop, except for the ads. Chose Chicago as my base, don't ask me why. It amazes me how frequently Americans stop me in the street to talk about the Cubs when I'm out in my cap, even in some of the most remote corners of Europe. \n",
+				"date_published": "2024-02-10T18:16:47+01:00",
+				"url": "https://www.olisharman.com/2024/02/10/this-has-been.html",
+				"tags": ["thoughts"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/02/09/the-merlin-bird.html",
 				
 				"content_html": "<p>The <a href=\"https://merlin.allaboutbirds.org\">Merlin Bird ID app</a> really is a remarkable piece of kit. Its <a href=\"https://merlin.allaboutbirds.org/sound-id/\">Sound ID</a> feature tells you the type of bird you can hear after recording only a few seconds of song. Works more often than not for me here in Italy, even when the bird song is quite faint.</p>\n",
