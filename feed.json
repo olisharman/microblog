@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/02/18/its-easy-to.html",
+				
+				"content_html": "<p>It’s easy to fall into the trap of thinking that you just are who you are, forgetting the power you have to take action and become who you want to be.</p>\n<p>Let’s not let the challenges of the past and the present hold you back from moving forward towards where you want to go.</p>\n<p>Keep taking those steps, no matter how tiny they may feel. They all add up if you just show up and keep moving.</p>\n<p>Smile when you can. It makes the journey more fun.</p>\n<p>So here’s to the future, and the steps we’ll take to shape it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It’s easy to fall into the trap of thinking that you just are who you are, forgetting the power you have to take action and become who you want to be.\n\nLet’s not let the challenges of the past and the present hold you back from moving forward towards where you want to go. \n\nKeep taking those steps, no matter how tiny they may feel. They all add up if you just show up and keep moving. \n\nSmile when you can. It makes the journey more fun.\n\nSo here’s to the future, and the steps we’ll take to shape it.\n\n<img src=\"uploads/2024/9d5eaf2826.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-02-18T16:02:58+01:00",
+				"url": "https://www.olisharman.com/2024/02/18/its-easy-to.html",
+				"tags": ["thoughts","photos"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/02/17/finished-reading-building.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780718033330\">Building a StoryBrand</a> by Donald Miller 📚</p>\n",
+				"content_text": "Finished reading: [Building a StoryBrand](https://micro.blog/books/9780718033330) by Donald Miller 📚\n",
+				"date_published": "2024-02-17T19:11:41+01:00",
+				"url": "https://www.olisharman.com/2024/02/17/finished-reading-building.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/02/15/apple-recently-shared.html",
+				
+				"content_html": "<p>Apple recently shared a great <a href=\"https://developer.apple.com/news/?id=5mcfho5g\">Q&amp;A with its UX writing team</a> from last year&rsquo;s WWDC.</p>\n<p>Lots of good insights here. If you&rsquo;re a writer it’s worth checking out the article in full, but I want to share their advice for explaining technical concepts in simple terms:</p>\n<blockquote>\n<p>First, remember that not everyone will have your level of understanding. Sometimes we get so excited about technical details that we forget the folks who might be using an app for the first time.</p>\n<p>Try explaining the concept to a friend or colleague first — or ask an engineer to give you a quick summary of a feature.</p>\n<p>From there, break down your idea into smaller components and delete anything that isn’t absolutely necessary. Technical concepts can feel even more intimidating when delivered in a big block of text. Can you link to a support page? Do people need that information in this particular moment? Offering small bits of information is always a good first step.</p>\n</blockquote>\n<p>This ‘delete anything that isn’t absolutely necessary’ applies to more than just good UX writing. It’s also solid advice for marketing copy, especially when talking to a broad audience about technical products. It&rsquo;s so easy for readers to get lost and just give up on figuring out what you’re trying to say.</p>\n<p>As they go on to say: &ldquo;Clarity should always be the priority&rdquo;.</p>\n",
+				"content_text": "Apple recently shared a great [Q&A with its UX writing team](https://developer.apple.com/news/?id=5mcfho5g) from last year's WWDC.\n\nLots of good insights here. If you're a writer it’s worth checking out the article in full, but I want to share their advice for explaining technical concepts in simple terms:\n\n> First, remember that not everyone will have your level of understanding. Sometimes we get so excited about technical details that we forget the folks who might be using an app for the first time.\n> \n> Try explaining the concept to a friend or colleague first — or ask an engineer to give you a quick summary of a feature.\n> \n> From there, break down your idea into smaller components and delete anything that isn’t absolutely necessary. Technical concepts can feel even more intimidating when delivered in a big block of text. Can you link to a support page? Do people need that information in this particular moment? Offering small bits of information is always a good first step.\n\nThis ‘delete anything that isn’t absolutely necessary’ applies to more than just good UX writing. It’s also solid advice for marketing copy, especially when talking to a broad audience about technical products. It's so easy for readers to get lost and just give up on figuring out what you’re trying to say. \n\nAs they go on to say: \"Clarity should always be the priority\".\n",
+				"date_published": "2024-02-15T21:13:30+01:00",
+				"url": "https://www.olisharman.com/2024/02/15/apple-recently-shared.html",
+				"tags": ["writing"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/02/13/interesting-to-hear.html",
 				
 				"content_html": "<p>Interesting to hear Malcolm Gladwell talk about his writing process on <a href=\"https://www.masterclass.com/classes/malcolm-gladwell-teaches-writing\">MasterClass</a>.</p>\n<p>He shared how he breaks every piece of writing down into small, numbered sections before stringing it all together and figuring out what goes where and working on transitions. He didn&rsquo;t mean sections like chapters in a book or even subheadings in an article, he suggested that his sections are often far more granular than that.</p>\n<p>Sounds pretty basic. But this approach makes large, intimidating projects easier to handle. It also helps build a feeling of ongoing momentum. I do something similar but without the numbers. Think I&rsquo;ll give the numbers a go.</p>\n",
@@ -81,7 +108,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/28/italian-sundays-are.html",
 				
 				"content_html": "<p>Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.\n\n<img src=\"uploads/2024/a928c04b01.jpg\" width=\"600\" height=\"600\" alt=\"The front of Santa Croce church in Lecce, Italy\">\n",
+				"content_text": "Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/a928c04b01.jpg\" width=\"600\" height=\"600\" alt=\"The front of Santa Croce church in Lecce, Italy\">\n",
 				"date_published": "2024-01-28T17:31:32+01:00",
 				"url": "https://www.olisharman.com/2024/01/28/italian-sundays-are.html",
 				"tags": ["photos"]
@@ -116,7 +143,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/14/whoa-were-half.html",
 				
 				"content_html": "<p>Whoa, we’re half way there 🎶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Whoa, we’re half way there 🎶\n\n<img src=\"uploads/2024/957f7de2e1.jpg\" width=\"600\" height=\"600\" alt=\"A blue and white cappella on the coast directly in front of the ocean.\">\n",
+				"content_text": "Whoa, we’re half way there 🎶\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/957f7de2e1.jpg\" width=\"600\" height=\"600\" alt=\"A blue and white cappella on the coast directly in front of the ocean.\">\n",
 				"date_published": "2024-01-14T13:49:18+01:00",
 				"url": "https://www.olisharman.com/2024/01/14/whoa-were-half.html",
 				"tags": ["photos"]
@@ -143,7 +170,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/08/when-i-close.html",
 				
 				"content_html": "<p>When I close my computer and head outside, sometimes it feels like I’ve stepped through a time machine instead of a door.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When I close my computer and head outside, sometimes it feels like I’ve stepped through a time machine instead of a door.\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"595\" alt=\"Vintage Fiat 500 sitting still on a cobbled Italian street.\">\n",
+				"content_text": "When I close my computer and head outside, sometimes it feels like I’ve stepped through a time machine instead of a door.\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/image.jpg\" width=\"600\" height=\"595\" alt=\"Vintage Fiat 500 sitting still on a cobbled Italian street.\">\n",
 				"date_published": "2024-01-08T21:37:20+01:00",
 				"url": "https://www.olisharman.com/2024/01/08/when-i-close.html",
 				"tags": ["photos"]
@@ -197,7 +224,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/01/this-paddle-boarder.html",
 				
 				"content_html": "<p>This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this. \n\n<img src=\"uploads/2024/6a07b12ed9.jpg\" width=\"600\" height=\"600\" alt=\"Paddle boarder alone in a calm sea.\">\n",
+				"content_text": "This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this. \n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/6a07b12ed9.jpg\" width=\"600\" height=\"600\" alt=\"Paddle boarder alone in a calm sea.\">\n",
 				"date_published": "2024-01-01T18:18:05+01:00",
 				"url": "https://www.olisharman.com/2024/01/01/this-paddle-boarder.html",
 				"tags": ["photos"]
