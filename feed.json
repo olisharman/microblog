@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/03/25/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780330513081\">The Hitchhiker&rsquo;s Guide to the Galaxy</a> by Douglas Adams 📚</p>\n",
+				"content_text": "Finished reading: [The Hitchhiker's Guide to the Galaxy](https://micro.blog/books/9780330513081) by Douglas Adams 📚\n",
+				"date_published": "2024-03-25T19:45:11+01:00",
+				"url": "https://www.olisharman.com/2024/03/25/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/03/12/finished-reading-regenesis.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780735240407\">Regenesis</a> by George Monbiot 📚</p>\n",
