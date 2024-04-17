@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/04/07/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780521157339\">The TKT Course CLIL Module</a> by Kay Bentley 📚</p>\n",
+				"content_text": "Finished reading: [The TKT Course CLIL Module](https://micro.blog/books/9780521157339) by Kay Bentley 📚\n",
+				"date_published": "2024-04-07T12:05:34+02:00",
+				"url": "https://www.olisharman.com/2024/04/07/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/04/05/finished-reading-bright.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780231150873\">Bright Wings</a> by Billy Collins 📚</p>\n<p>Drawings of birds and poems about birds. What&rsquo;s not to love?</p>\n",
+				"content_text": "Finished reading: [Bright Wings](https://micro.blog/books/9780231150873) by Billy Collins 📚\r\n\r\nDrawings of birds and poems about birds. What's not to love?  \n",
+				"date_published": "2024-04-05T22:33:58+02:00",
+				"url": "https://www.olisharman.com/2024/04/05/finished-reading-bright.html"
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/04/01/over-recent-months.html",
 				
 				"content_html": "<p>Over recent months this website has morphed into a public log of my reading.</p>\n<p>I&rsquo;m ok with that. I guess the beauty of having a personal website is that you can use it as you want, and it&rsquo;s ok if that changes over time as it rides life&rsquo;s ebbs and flows with you.</p>\n<p>With no hunger for likes or algorithms to appease the freedom feels real. Hopefully I&rsquo;ll find the time to post a wider variety of things here soon.</p>\n",
@@ -144,7 +161,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/28/italian-sundays-are.html",
 				
 				"content_html": "<p>Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.\n\n<img src=\"uploads/2024/a928c04b01.jpg\" width=\"600\" height=\"600\" alt=\"The front of Santa Croce church in Lecce, Italy\">\n",
+				"content_text": "Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/a928c04b01.jpg\" width=\"600\" height=\"600\" alt=\"The front of Santa Croce church in Lecce, Italy\">\n",
 				"date_published": "2024-01-28T18:31:32+02:00",
 				"url": "https://www.olisharman.com/2024/01/28/italian-sundays-are.html",
 				"tags": ["photos"]
@@ -179,7 +196,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/14/whoa-were-half.html",
 				
 				"content_html": "<p>Whoa, we’re half way there 🎶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Whoa, we’re half way there 🎶\n\n<img src=\"uploads/2024/957f7de2e1.jpg\" width=\"600\" height=\"600\" alt=\"A blue and white cappella on the coast directly in front of the ocean.\">\n",
+				"content_text": "Whoa, we’re half way there 🎶\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/957f7de2e1.jpg\" width=\"600\" height=\"600\" alt=\"A blue and white cappella on the coast directly in front of the ocean.\">\n",
 				"date_published": "2024-01-14T14:49:18+02:00",
 				"url": "https://www.olisharman.com/2024/01/14/whoa-were-half.html",
 				"tags": ["photos"]
@@ -206,7 +223,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/08/when-i-close.html",
 				
 				"content_html": "<p>When I close my computer and head outside, sometimes it feels like I’ve stepped through a time machine instead of a door.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When I close my computer and head outside, sometimes it feels like I’ve stepped through a time machine instead of a door.\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"595\" alt=\"Vintage Fiat 500 sitting still on a cobbled Italian street.\">\n",
+				"content_text": "When I close my computer and head outside, sometimes it feels like I’ve stepped through a time machine instead of a door.\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/image.jpg\" width=\"600\" height=\"595\" alt=\"Vintage Fiat 500 sitting still on a cobbled Italian street.\">\n",
 				"date_published": "2024-01-08T22:37:20+02:00",
 				"url": "https://www.olisharman.com/2024/01/08/when-i-close.html",
 				"tags": ["photos"]
@@ -260,7 +277,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/01/this-paddle-boarder.html",
 				
 				"content_html": "<p>This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this. \n\n<img src=\"uploads/2024/6a07b12ed9.jpg\" width=\"600\" height=\"600\" alt=\"Paddle boarder alone in a calm sea.\">\n",
+				"content_text": "This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this. \n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/6a07b12ed9.jpg\" width=\"600\" height=\"600\" alt=\"Paddle boarder alone in a calm sea.\">\n",
 				"date_published": "2024-01-01T19:18:05+02:00",
 				"url": "https://www.olisharman.com/2024/01/01/this-paddle-boarder.html",
 				"tags": ["photos"]
