@@ -9,11 +9,10 @@
 			{
 				"id": "http://olisharman.micro.blog/2024/05/19/this-quote-from.html",
 				
-				"content_html": "<p>This quote from software engineer Kent Beck pretty much sums where I keep going wrong.</p>\n<blockquote>\n<p>“By far the dominant reason for not releasing sooner was a reluctance to trade the dream of success for the reality of feedback.”</p>\n</blockquote>\n<p>Dreams of future success may be a comfortable place to hang out, but they’re a complete waste of time.</p>\n<p>Finish the work. Put it out there. Listen to what other people think about it.</p>\n<p>Spotted in <a href=\"https://jamesclear.com/3-2-1/may-16-2024\">James Clear&rsquo;s newsletter</a> this week.</p>\n",
-				"content_text": "This quote from software engineer Kent Beck pretty much sums where I keep going wrong. \n\n> “By far the dominant reason for not releasing sooner was a reluctance to trade the dream of success for the reality of feedback.”\n\nDreams of future success may be a comfortable place to hang out, but they’re a complete waste of time. \n\nFinish the work. Put it out there. Listen to what other people think about it.\n\nSpotted in [James Clear's newsletter](https://jamesclear.com/3-2-1/may-16-2024) this week.\n",
+				"content_html": "<p>This quote from software engineer Kent Beck pretty much sums up where I keep going wrong.</p>\n<blockquote>\n<p>“By far the dominant reason for not releasing sooner was a reluctance to trade the dream of success for the reality of feedback.”</p>\n</blockquote>\n<p>Dreams of future success may be a comfortable place to hang out, but they’re a complete waste of time.</p>\n<p>Finish the work. Put it out there. Listen to what other people think about it.</p>\n<p>Spotted in <a href=\"https://jamesclear.com/3-2-1/may-16-2024\">James Clear&rsquo;s newsletter</a> this week.</p>\n",
+				"content_text": "This quote from software engineer Kent Beck pretty much sums up where I keep going wrong. \n\n> “By far the dominant reason for not releasing sooner was a reluctance to trade the dream of success for the reality of feedback.”\n\nDreams of future success may be a comfortable place to hang out, but they’re a complete waste of time. \n\nFinish the work. Put it out there. Listen to what other people think about it.\n\nSpotted in [James Clear's newsletter](https://jamesclear.com/3-2-1/may-16-2024) this week.\n",
 				"date_published": "2024-05-19T12:40:35+02:00",
-				"url": "https://www.olisharman.com/2024/05/19/this-quote-from.html",
-				"tags": ["thoughts"]
+				"url": "https://www.olisharman.com/2024/05/19/this-quote-from.html"
 			},
 			{
 				"id": "http://olisharman.micro.blog/2024/05/18/210009.html",
@@ -189,7 +188,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/28/italian-sundays-are.html",
 				
 				"content_html": "<p>Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.\n\n<img src=\"uploads/2024/a928c04b01.jpg\" width=\"600\" height=\"600\" alt=\"The front of Santa Croce church in Lecce, Italy\">\n",
+				"content_text": "Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/a928c04b01.jpg\" width=\"600\" height=\"600\" alt=\"The front of Santa Croce church in Lecce, Italy\">\n",
 				"date_published": "2024-01-28T18:31:32+02:00",
 				"url": "https://www.olisharman.com/2024/01/28/italian-sundays-are.html",
 				"tags": ["photos"]
@@ -224,7 +223,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/14/whoa-were-half.html",
 				
 				"content_html": "<p>Whoa, we’re half way there 🎶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Whoa, we’re half way there 🎶\n\n<img src=\"uploads/2024/957f7de2e1.jpg\" width=\"600\" height=\"600\" alt=\"A blue and white cappella on the coast directly in front of the ocean.\">\n",
+				"content_text": "Whoa, we’re half way there 🎶\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/957f7de2e1.jpg\" width=\"600\" height=\"600\" alt=\"A blue and white cappella on the coast directly in front of the ocean.\">\n",
 				"date_published": "2024-01-14T14:49:18+02:00",
 				"url": "https://www.olisharman.com/2024/01/14/whoa-were-half.html",
 				"tags": ["photos"]
@@ -251,7 +250,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/08/when-i-close.html",
 				
 				"content_html": "<p>When I close my computer and head outside, sometimes it feels like I’ve stepped through a time machine instead of a door.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When I close my computer and head outside, sometimes it feels like I’ve stepped through a time machine instead of a door.\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"595\" alt=\"Vintage Fiat 500 sitting still on a cobbled Italian street.\">\n",
+				"content_text": "When I close my computer and head outside, sometimes it feels like I’ve stepped through a time machine instead of a door.\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/image.jpg\" width=\"600\" height=\"595\" alt=\"Vintage Fiat 500 sitting still on a cobbled Italian street.\">\n",
 				"date_published": "2024-01-08T22:37:20+02:00",
 				"url": "https://www.olisharman.com/2024/01/08/when-i-close.html",
 				"tags": ["photos"]
@@ -296,7 +295,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/01/this-paddle-boarder.html",
 				
 				"content_html": "<p>This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this. \n\n<img src=\"uploads/2024/6a07b12ed9.jpg\" width=\"600\" height=\"600\" alt=\"Paddle boarder alone in a calm sea.\">\n",
+				"content_text": "This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this. \n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/6a07b12ed9.jpg\" width=\"600\" height=\"600\" alt=\"Paddle boarder alone in a calm sea.\">\n",
 				"date_published": "2024-01-01T19:18:05+02:00",
 				"url": "https://www.olisharman.com/2024/01/01/this-paddle-boarder.html",
 				"tags": ["photos"]
