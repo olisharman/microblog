@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/06/05/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345803108\">The Inferno</a> by Dante 📚</p>\n",
+				"content_text": "Finished reading: [The Inferno](https://micro.blog/books/9780345803108) by Dante 📚\n",
+				"date_published": "2024-06-05T19:17:49+02:00",
+				"url": "https://www.olisharman.com/2024/06/05/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/05/19/this-quote-from.html",
 				
 				"content_html": "<p>This quote from software engineer Kent Beck pretty much sums up where I keep going wrong.</p>\n<blockquote>\n<p>“By far the dominant reason for not releasing sooner was a reluctance to trade the dream of success for the reality of feedback.”</p>\n</blockquote>\n<p>Dreams of future success may be a comfortable place to hang out, but they’re a complete waste of time.</p>\n<p>Finish the work. Put it out there. Listen to what other people think about it.</p>\n<p>Spotted in <a href=\"https://jamesclear.com/3-2-1/may-16-2024\">James Clear&rsquo;s newsletter</a> this week.</p>\n",
