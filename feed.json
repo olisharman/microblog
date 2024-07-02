@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/06/25/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780141973876\">The Murders in the Rue Morgue and Other Tales</a> by Edgar Allan Poe 📚</p>\n",
+				"content_text": "Finished reading: [The Murders in the Rue Morgue and Other Tales](https://micro.blog/books/9780141973876) by Edgar Allan Poe 📚\n",
+				"date_published": "2024-06-25T22:24:48+02:00",
+				"url": "https://www.olisharman.com/2024/06/25/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/06/05/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345803108\">The Inferno</a> by Dante 📚</p>\n",
@@ -197,7 +206,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/28/italian-sundays-are.html",
 				
 				"content_html": "<p>Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/a928c04b01.jpg\" width=\"600\" height=\"600\" alt=\"The front of Santa Croce church in Lecce, Italy\">\n",
+				"content_text": "Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.\n\n<img src=\"uploads/2024/a928c04b01.jpg\" width=\"600\" height=\"600\" alt=\"The front of Santa Croce church in Lecce, Italy\">\n",
 				"date_published": "2024-01-28T18:31:32+02:00",
 				"url": "https://www.olisharman.com/2024/01/28/italian-sundays-are.html",
 				"tags": ["photos"]
@@ -232,7 +241,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/14/whoa-were-half.html",
 				
 				"content_html": "<p>Whoa, we’re half way there 🎶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Whoa, we’re half way there 🎶\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/957f7de2e1.jpg\" width=\"600\" height=\"600\" alt=\"A blue and white cappella on the coast directly in front of the ocean.\">\n",
+				"content_text": "Whoa, we’re half way there 🎶\n\n<img src=\"uploads/2024/957f7de2e1.jpg\" width=\"600\" height=\"600\" alt=\"A blue and white cappella on the coast directly in front of the ocean.\">\n",
 				"date_published": "2024-01-14T14:49:18+02:00",
 				"url": "https://www.olisharman.com/2024/01/14/whoa-were-half.html",
 				"tags": ["photos"]
@@ -259,7 +268,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/08/when-i-close.html",
 				
 				"content_html": "<p>When I close my computer and head outside, sometimes it feels like I’ve stepped through a time machine instead of a door.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When I close my computer and head outside, sometimes it feels like I’ve stepped through a time machine instead of a door.\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/image.jpg\" width=\"600\" height=\"595\" alt=\"Vintage Fiat 500 sitting still on a cobbled Italian street.\">\n",
+				"content_text": "When I close my computer and head outside, sometimes it feels like I’ve stepped through a time machine instead of a door.\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"595\" alt=\"Vintage Fiat 500 sitting still on a cobbled Italian street.\">\n",
 				"date_published": "2024-01-08T22:37:20+02:00",
 				"url": "https://www.olisharman.com/2024/01/08/when-i-close.html",
 				"tags": ["photos"]
@@ -304,7 +313,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/01/this-paddle-boarder.html",
 				
 				"content_html": "<p>This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this. \n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/6a07b12ed9.jpg\" width=\"600\" height=\"600\" alt=\"Paddle boarder alone in a calm sea.\">\n",
+				"content_text": "This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this. \n\n<img src=\"uploads/2024/6a07b12ed9.jpg\" width=\"600\" height=\"600\" alt=\"Paddle boarder alone in a calm sea.\">\n",
 				"date_published": "2024-01-01T19:18:05+02:00",
 				"url": "https://www.olisharman.com/2024/01/01/this-paddle-boarder.html",
 				"tags": ["photos"]
