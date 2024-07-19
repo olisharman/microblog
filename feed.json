@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/07/02/finished-reading-poetry.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780571233809\">Poetry in the Making</a> by Ted Hughes 📚</p>\n<p>This is a great short book about poetry and the craft of writing it.</p>\n",
+				"content_text": "Finished reading: [Poetry in the Making](https://micro.blog/books/9780571233809) by Ted Hughes 📚\n\nThis is a great short book about poetry and the craft of writing it. \n",
+				"date_published": "2024-07-02T19:22:18+02:00",
+				"url": "https://www.olisharman.com/2024/07/02/finished-reading-poetry.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/06/25/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780141973876\">The Murders in the Rue Morgue and Other Tales</a> by Edgar Allan Poe 📚</p>\n",
