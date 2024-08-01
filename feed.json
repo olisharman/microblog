@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/07/21/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780099583097\">The Collected Poems</a> by Robert Frost 📚</p>\n",
+				"content_text": "Finished reading: [The Collected Poems](https://micro.blog/books/9780099583097) by Robert Frost 📚\n",
+				"date_published": "2024-07-21T17:24:55+02:00",
+				"url": "https://www.olisharman.com/2024/07/21/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/07/02/finished-reading-poetry.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780571233809\">Poetry in the Making</a> by Ted Hughes 📚</p>\n<p>This is a great short book about poetry and the craft of writing it.</p>\n",
