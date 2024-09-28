@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/09/21/finished-reading-consider.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316095839\">Consider Phlebas</a> by Iain M. Banks 📚</p>\n",
+				"content_text": "Finished reading: [Consider Phlebas](https://micro.blog/books/9780316095839) by Iain M. Banks 📚\n",
+				"date_published": "2024-09-21T15:57:02+02:00",
+				"url": "https://www.olisharman.com/2024/09/21/finished-reading-consider.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/09/21/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781635579994\">The Madness of Crowds</a> by Douglas Murray 📚</p>\n",
+				"content_text": "Finished reading: [The Madness of Crowds](https://micro.blog/books/9781635579994) by Douglas Murray 📚\n",
+				"date_published": "2024-09-21T15:56:44+02:00",
+				"url": "https://www.olisharman.com/2024/09/21/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/08/25/finished-reading-a.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780307755490\">A Year in Provence</a> by Peter Mayle 📚</p>\n",
