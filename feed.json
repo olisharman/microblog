@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/11/08/finished-reading-i.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780307477729\">I Know Why the Caged Bird Sings</a> by Maya Angelou 📚</p>\n",
+				"content_text": "Finished reading: [I Know Why the Caged Bird Sings](https://micro.blog/books/9780307477729) by Maya Angelou 📚\n",
+				"date_published": "2024-11-08T20:30:02+01:00",
+				"url": "https://www.olisharman.com/2024/11/08/finished-reading-i.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/11/02/every-now-and.html",
 				
-				"content_html": "<p>Every now and then something happens in my life that reminds me of the importance of having a compassionate mind. Both towards others and towards myself.</p>\n<p>For example, a stranger was quite rude to me the other day. It was completely unprovoked, surprising and caught me off guard.</p>\n<p>Instead of turning to anger or losing confidence, I thanked them and understood that their life may not be where they want it to be. And I was just some person who for whatever reason got in their way as they tried to keep going.</p>\n<p>What may have once developed into a confrontation or knocked my confidence ended up as this blog post and a chance to reflect on how much I’ve grown.</p>\n",
-				"content_text": "Every now and then something happens in my life that reminds me of the importance of having a compassionate mind. Both towards others and towards myself. \n\nFor example, a stranger was quite rude to me the other day. It was completely unprovoked, surprising and caught me off guard. \n\nInstead of turning to anger or losing confidence, I thanked them and understood that their life may not be where they want it to be. And I was just some person who for whatever reason got in their way as they tried to keep going. \n\nWhat may have once developed into a confrontation or knocked my confidence ended up as this blog post and a chance to reflect on how much I’ve grown.\n",
+				"content_html": "<p>Every now and then something happens in my life that reminds me of the importance of having a compassionate mind, both towards others and towards myself.</p>\n<p>For example, a stranger was quite rude to me the other day. It was completely unprovoked, surprising and caught me off guard.</p>\n<p>Instead of turning to anger or losing confidence, I thanked them and understood that their life may not be where they want it to be. And I was just some person who for whatever reason got in their way as they tried to keep going.</p>\n<p>What may have once developed into a confrontation or knocked my confidence ended up as this blog post and a chance to reflect on how much I’ve grown.</p>\n",
+				"content_text": "Every now and then something happens in my life that reminds me of the importance of having a compassionate mind, both towards others and towards myself. \n\nFor example, a stranger was quite rude to me the other day. It was completely unprovoked, surprising and caught me off guard. \n\nInstead of turning to anger or losing confidence, I thanked them and understood that their life may not be where they want it to be. And I was just some person who for whatever reason got in their way as they tried to keep going. \n\nWhat may have once developed into a confrontation or knocked my confidence ended up as this blog post and a chance to reflect on how much I’ve grown.\n",
 				"date_published": "2024-11-02T21:23:46+01:00",
 				"url": "https://www.olisharman.com/2024/11/02/every-now-and.html",
 				"tags": ["thoughts"]
