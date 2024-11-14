@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/11/11/finished-reading-how.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781118306215\">How to Read a Poem</a> by Terry Eagleton 📚</p>\n",
+				"content_text": "Finished reading: [How to Read a Poem](https://micro.blog/books/9781118306215) by Terry Eagleton 📚\n",
+				"date_published": "2024-11-11T14:42:21+01:00",
+				"url": "https://www.olisharman.com/2024/11/11/finished-reading-how.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/11/10/as-the-dust.html",
+				
+				"content_html": "<p>As the dust settles on the US election result, those who care about what it means for the climate may find some strength in these words from James Stockdale.</p>\n<blockquote>\n<p>“You must never confuse faith that you will prevail in the end — which you can never afford to lose — with the discipline to confront the most brutal facts of your current reality, whatever they might be.”</p>\n</blockquote>\n<p>He was a U.S. prisoner tortured and held captive for over seven years during the Vietnam War. It is known as the Stockdale Paradox.</p>\n<p>Keep faith in the future but confront reality head on. Mix <a href=\"https://www.outrageandoptimism.org\">outrage and optimism</a>.</p>\n",
+				"content_text": "As the dust settles on the US election result, those who care about what it means for the climate may find some strength in these words from James Stockdale. \r\n\r\n> “You must never confuse faith that you will prevail in the end — which you can never afford to lose — with the discipline to confront the most brutal facts of your current reality, whatever they might be.”\r\n\r\nHe was a U.S. prisoner tortured and held captive for over seven years during the Vietnam War. It is known as the Stockdale Paradox.\r\n\r\nKeep faith in the future but confront reality head on. Mix [outrage and optimism](https://www.outrageandoptimism.org).\r\n",
+				"date_published": "2024-11-10T18:12:39+01:00",
+				"url": "https://www.olisharman.com/2024/11/10/as-the-dust.html",
+				"tags": ["thoughts"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/11/10/sir-jonathan-bate.html",
+				
+				"content_html": "<p>Sir Jonathan Bate has commented on the <a href=\"https://www.thetimes.com/article/bb4aa9b1-f9df-427e-8e87-31385ff1d0d0?shareToken=108e7cdc1d5f9fbc0922b8dd9966b8d8\">shift from humanities to STEM subjects</a> among students seeking well-paying jobs.</p>\n<blockquote>\n<p>“The irony of that, of course, is that if you speak to employers, they really like English students because the best of them can write, communicate and think critically. The deeper irony is, with the AI revolution, the people who are really going to lose their jobs are the computer programmers.”</p>\n</blockquote>\n<p>He has a point. But in my opinion, what we need more of is writers who can code and coders who can write. I think AI can really help people expand their skillset.</p>\n<p>As reliance on AI grows, those who develop deep, ‘analogue’ expertise in whatever it is they specialise in will stand head and shoulders above the rest.</p>\n<p>I think how AI is used in education is particularly important. Especially if the machines break or get turned off one day.</p>\n",
+				"content_text": "Sir Jonathan Bate has commented on the [shift from humanities to STEM subjects](https://www.thetimes.com/article/bb4aa9b1-f9df-427e-8e87-31385ff1d0d0?shareToken=108e7cdc1d5f9fbc0922b8dd9966b8d8) among students seeking well-paying jobs.\n\n> “The irony of that, of course, is that if you speak to employers, they really like English students because the best of them can write, communicate and think critically. The deeper irony is, with the AI revolution, the people who are really going to lose their jobs are the computer programmers.”\n\nHe has a point. But in my opinion, what we need more of is writers who can code and coders who can write. I think AI can really help people expand their skillset.\n\nAs reliance on AI grows, those who develop deep, ‘analogue’ expertise in whatever it is they specialise in will stand head and shoulders above the rest.\n\nI think how AI is used in education is particularly important. Especially if the machines break or get turned off one day. \n",
+				"date_published": "2024-11-10T16:06:27+01:00",
+				"url": "https://www.olisharman.com/2024/11/10/sir-jonathan-bate.html",
+				"tags": ["thoughts"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/11/09/venus-is-shining.html",
+				
+				"content_html": "<p>Venus is shining bright as the sun goes down. Seems like the only star in the sky.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Venus is shining bright as the sun goes down. Seems like the only star in the sky. \n\n<img src=\"uploads/2024/img-6260.jpg\" width=\"600\" height=\"600\" alt=\"The sun setting over a wall, with a single bright star in the sky.\">\n",
+				"date_published": "2024-11-09T17:31:26+01:00",
+				"url": "https://www.olisharman.com/2024/11/09/venus-is-shining.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/11/08/finished-reading-i.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780307477729\">I Know Why the Caged Bird Sings</a> by Maya Angelou 📚</p>\n",
@@ -54,7 +90,7 @@
 				"id": "http://olisharman.micro.blog/2024/10/25/walked-past-some.html",
 				
 				"content_html": "<p>Walked past some old building in Rome around sunset tonight.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Walked past some old building in Rome around sunset tonight. \n\n<img src=\"uploads/2024/6eac139811.jpg\" width=\"337\" height=\"600\" alt=\"The colosseum in Rome at sunset. \">\n",
+				"content_text": "Walked past some old building in Rome around sunset tonight. \n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/6eac139811.jpg\" width=\"337\" height=\"600\" alt=\"The colosseum in Rome at sunset. \">\n",
 				"date_published": "2024-10-25T22:35:43+01:00",
 				"url": "https://www.olisharman.com/2024/10/25/walked-past-some.html",
 				"tags": ["photos"]
@@ -90,7 +126,7 @@
 				"id": "http://olisharman.micro.blog/2024/10/12/151335.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/8942b7bb59.jpg\" width=\"600\" height=\"600\" alt=\"A beach at Porto Selvaggio nature reserve in Salento on a sunny October day, with a handful of people sunbathing and swimming.\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/137736/2024/8942b7bb59.jpg\" width=\"600\" height=\"600\" alt=\"A beach at Porto Selvaggio nature reserve in Salento on a sunny October day, with a handful of people sunbathing and swimming.\">\n",
 				"date_published": "2024-10-12T14:13:35+01:00",
 				"url": "https://www.olisharman.com/2024/10/12/151335.html",
 				"tags": ["photos"]
@@ -99,7 +135,7 @@
 				"id": "http://olisharman.micro.blog/2024/10/12/a-beach-at.html",
 				
 				"content_html": "<p>A beach at the Porto Selvaggio nature reserve in Salento.</p>\n<p>You need to walk through woods for 30 minutes from the nearest parking spot. Worth it every time.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A beach at the Porto Selvaggio nature reserve in Salento.\n\nYou need to walk through woods for 30 minutes from the nearest parking spot. Worth it every time. \n\n<img src=\"uploads/2024/27f44640ad.jpg\" width=\"600\" height=\"600\" alt=\"A beach at a nature reserve on a clear autumn day. Porto Selvaggio, Salento, Italy.\">\n",
+				"content_text": "A beach at the Porto Selvaggio nature reserve in Salento.\n\nYou need to walk through woods for 30 minutes from the nearest parking spot. Worth it every time. \n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/27f44640ad.jpg\" width=\"600\" height=\"600\" alt=\"A beach at a nature reserve on a clear autumn day. Porto Selvaggio, Salento, Italy.\">\n",
 				"date_published": "2024-10-12T12:58:27+01:00",
 				"url": "https://www.olisharman.com/2024/10/12/a-beach-at.html",
 				"tags": ["photos"]
@@ -116,7 +152,7 @@
 				"id": "http://olisharman.micro.blog/2024/10/06/184327.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/da0a036bd3.jpg\" width=\"600\" height=\"600\" alt=\"A sunset at a beach in Italy, the sky is blue above the ocean and there are rocks with green grass.\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/137736/2024/da0a036bd3.jpg\" width=\"600\" height=\"600\" alt=\"A sunset at a beach in Italy, the sky is blue above the ocean and there are rocks with green grass.\">\n",
 				"date_published": "2024-10-06T17:43:27+01:00",
 				"url": "https://www.olisharman.com/2024/10/06/184327.html",
 				"tags": ["photos"]
@@ -259,7 +295,7 @@
 				"id": "http://olisharman.micro.blog/2024/05/18/210009.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2024/img-5575.jpg\" width=\"600\" height=\"599\" alt=\"Shrine to Mary in a street. It's made of bricks and there is a brown fence in front of Mary.\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/img-5575.jpg\" width=\"600\" height=\"599\" alt=\"Shrine to Mary in a street. It's made of bricks and there is a brown fence in front of Mary.\">\n",
 				"date_published": "2024-05-18T20:00:09+01:00",
 				"url": "https://www.olisharman.com/2024/05/18/210009.html",
 				"tags": ["photos"]
@@ -268,7 +304,7 @@
 				"id": "http://olisharman.micro.blog/2024/04/28/young-vines-preparing.html",
 				
 				"content_html": "<p>Young vines preparing to soak up the summer sun.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Young vines preparing to soak up the summer sun. \n\n<img src=\"uploads/2024/b8c1a446-3b1b-498c-96a4-e8ae30d95e43.jpg\" width=\"600\" height=\"600\" alt=\"Grape vines growing in a field\">\n",
+				"content_text": "Young vines preparing to soak up the summer sun. \n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/b8c1a446-3b1b-498c-96a4-e8ae30d95e43.jpg\" width=\"600\" height=\"600\" alt=\"Grape vines growing in a field\">\n",
 				"date_published": "2024-04-28T19:05:29+01:00",
 				"url": "https://www.olisharman.com/2024/04/28/young-vines-preparing.html",
 				"tags": ["photos"]
@@ -340,7 +376,7 @@
 				"id": "http://olisharman.micro.blog/2024/02/18/its-easy-to.html",
 				
 				"content_html": "<p>It’s easy to fall into the trap of thinking that you just are who you are, forgetting the power you have to take action and become who you want to be.</p>\n<p>Let’s not let the challenges of the past and the present hold you back from moving forward towards where you want to go.</p>\n<p>Keep taking those steps, no matter how tiny they may feel. They all add up if you just show up and keep moving.</p>\n<p>Smile when you can. It makes the journey more fun.</p>\n<p>So here’s to the future, and the steps we’ll take to shape it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s easy to fall into the trap of thinking that you just are who you are, forgetting the power you have to take action and become who you want to be.\n\nLet’s not let the challenges of the past and the present hold you back from moving forward towards where you want to go. \n\nKeep taking those steps, no matter how tiny they may feel. They all add up if you just show up and keep moving. \n\nSmile when you can. It makes the journey more fun.\n\nSo here’s to the future, and the steps we’ll take to shape it.\n\n<img src=\"uploads/2024/9d5eaf2826.jpg\" width=\"600\" height=\"600\" alt=\"A sandy beach covered in footprints with the ocean behind\">\n",
+				"content_text": "It’s easy to fall into the trap of thinking that you just are who you are, forgetting the power you have to take action and become who you want to be.\n\nLet’s not let the challenges of the past and the present hold you back from moving forward towards where you want to go. \n\nKeep taking those steps, no matter how tiny they may feel. They all add up if you just show up and keep moving. \n\nSmile when you can. It makes the journey more fun.\n\nSo here’s to the future, and the steps we’ll take to shape it.\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/9d5eaf2826.jpg\" width=\"600\" height=\"600\" alt=\"A sandy beach covered in footprints with the ocean behind\">\n",
 				"date_published": "2024-02-18T16:02:58+01:00",
 				"url": "https://www.olisharman.com/2024/02/18/its-easy-to.html",
 				"tags": ["thoughts","photos"]
@@ -428,7 +464,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/28/italian-sundays-are.html",
 				
 				"content_html": "<p>Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.\n\n<img src=\"uploads/2024/a928c04b01.jpg\" width=\"600\" height=\"600\" alt=\"The front of Santa Croce church in Lecce, Italy\">\n",
+				"content_text": "Italian Sundays are made for passeggiatas. Here’s a shot from our stroll today in central Lecce.\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/a928c04b01.jpg\" width=\"600\" height=\"600\" alt=\"The front of Santa Croce church in Lecce, Italy\">\n",
 				"date_published": "2024-01-28T17:31:32+01:00",
 				"url": "https://www.olisharman.com/2024/01/28/italian-sundays-are.html",
 				"tags": ["photos"]
@@ -462,7 +498,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/14/whoa-were-half.html",
 				
 				"content_html": "<p>Whoa, we’re half way there 🎶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Whoa, we’re half way there 🎶\n\n<img src=\"uploads/2024/957f7de2e1.jpg\" width=\"600\" height=\"600\" alt=\"A blue and white cappella on the coast directly in front of the ocean.\">\n",
+				"content_text": "Whoa, we’re half way there 🎶\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/957f7de2e1.jpg\" width=\"600\" height=\"600\" alt=\"A blue and white cappella on the coast directly in front of the ocean.\">\n",
 				"date_published": "2024-01-14T13:49:18+01:00",
 				"url": "https://www.olisharman.com/2024/01/14/whoa-were-half.html",
 				"tags": ["photos"]
@@ -488,7 +524,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/08/when-i-close.html",
 				
 				"content_html": "<p>When I close my computer and head outside, sometimes it feels like I’ve stepped through a time machine instead of a door.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When I close my computer and head outside, sometimes it feels like I’ve stepped through a time machine instead of a door.\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"595\" alt=\"Vintage Fiat 500 sitting still on a cobbled Italian street.\">\n",
+				"content_text": "When I close my computer and head outside, sometimes it feels like I’ve stepped through a time machine instead of a door.\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/image.jpg\" width=\"600\" height=\"595\" alt=\"Vintage Fiat 500 sitting still on a cobbled Italian street.\">\n",
 				"date_published": "2024-01-08T21:37:20+01:00",
 				"url": "https://www.olisharman.com/2024/01/08/when-i-close.html",
 				"tags": ["photos"]
@@ -532,7 +568,7 @@
 				"id": "http://olisharman.micro.blog/2024/01/01/this-paddle-boarder.html",
 				
 				"content_html": "<p>This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this. \n\n<img src=\"uploads/2024/6a07b12ed9.jpg\" width=\"600\" height=\"600\" alt=\"Paddle boarder alone in a calm sea.\">\n",
+				"content_text": "This paddle boarder had the right idea. Need to get myself one of those for days when the sea is as beautiful as this. \n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/6a07b12ed9.jpg\" width=\"600\" height=\"600\" alt=\"Paddle boarder alone in a calm sea.\">\n",
 				"date_published": "2024-01-01T18:18:05+01:00",
 				"url": "https://www.olisharman.com/2024/01/01/this-paddle-boarder.html",
 				"tags": ["photos"]
