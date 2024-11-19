@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/11/18/delighted-to-have.html",
+				
+				"content_html": "<p>Delighted to have been awarded a distinction in my journalism diploma from the <a href=\"https://www.lsj.org\">London School of Journalism</a>. 🎓</p>\n",
+				"content_text": "Delighted to have been awarded a distinction in my journalism diploma from the [London School of Journalism](https://www.lsj.org). 🎓\n",
+				"date_published": "2024-11-18T14:13:06+01:00",
+				"url": "https://www.olisharman.com/2024/11/18/delighted-to-have.html"
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/11/16/a-suggestion-from.html",
+				
+				"content_html": "<p>A suggestion from psychiatrist Prof Steve Peters for the best advice to give a grandchild who may visit you on your deathbed.</p>\n<blockquote>\n<p>“It is your own mind that could stop you from being you and leading the life that you want to live. It is so important to learn to understand and manage your mind. You are going to share your mind with a Chimp!”</p>\n</blockquote>\n<p>He points out that while there is no doubt lots of good advice you could give in this hypothetical situation, none will be of much use if they don’t learn how to manage the Chimp in their mind.</p>\n<p>From <a href=\"https://micro.blog/books/9781998991105\">A Path Through the Jungle</a>. Although, if you’re interested, I’d start with the <a href=\"https://micro.blog/books/9781101610626\">Chimp Paradox</a> for an intro to his ideas.</p>\n",
+				"content_text": "A suggestion from psychiatrist Prof Steve Peters for the best advice to give a grandchild who may visit you on your deathbed.\r\n\r\n> “It is your own mind that could stop you from being you and leading the life that you want to live. It is so important to learn to understand and manage your mind. You are going to share your mind with a Chimp!”\r\n\r\nHe points out that while there is no doubt lots of good advice you could give in this hypothetical situation, none will be of much use if they don’t learn how to manage the Chimp in their mind. \r\n\r\nFrom [A Path Through the Jungle](https://micro.blog/books/9781998991105). Although, if you’re interested, I’d start with the [Chimp Paradox](https://micro.blog/books/9781101610626) for an intro to his ideas.\r\n",
+				"date_published": "2024-11-16T22:46:28+01:00",
+				"url": "https://www.olisharman.com/2024/11/16/a-suggestion-from.html",
+				"tags": ["thoughts"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/11/14/finished-reading-invisible.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780735248595\">Invisible Doctrine</a> by George Monbiot and Peter Hutchison 📚</p>\n",
+				"content_text": "Finished reading: [Invisible Doctrine](https://micro.blog/books/9780735248595) by George Monbiot and Peter Hutchison 📚\n",
+				"date_published": "2024-11-14T20:07:39+01:00",
+				"url": "https://www.olisharman.com/2024/11/14/finished-reading-invisible.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/11/11/finished-reading-how.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781118306215\">How to Read a Poem</a> by Terry Eagleton 📚</p>\n",
@@ -37,7 +63,7 @@
 				"id": "http://olisharman.micro.blog/2024/11/09/venus-is-shining.html",
 				
 				"content_html": "<p>Venus is shining bright as the sun goes down. Seems like the only star in the sky.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Venus is shining bright as the sun goes down. Seems like the only star in the sky. \n\n<img src=\"uploads/2024/img-6260.jpg\" width=\"600\" height=\"600\" alt=\"The sun setting over a wall, with a single bright star in the sky.\">\n",
+				"content_text": "Venus is shining bright as the sun goes down. Seems like the only star in the sky. \n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/img-6260.jpg\" width=\"600\" height=\"600\" alt=\"The sun setting over a wall, with a single bright star in the sky.\">\n",
 				"date_published": "2024-11-09T17:31:26+01:00",
 				"url": "https://www.olisharman.com/2024/11/09/venus-is-shining.html",
 				"tags": ["photos"]
@@ -72,7 +98,7 @@
 				"id": "http://olisharman.micro.blog/2024/10/26/stopped-for-a.html",
 				
 				"content_html": "<p>Stopped for a lunchtime drink at a bar in Rome and, unknown to me, a French girl sitting at the next table was drawing me as I was talking on the phone.</p>\n<p>She’s talented. She explained that she’s an art student and likes to do this when she travels.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Stopped for a lunchtime drink at a bar in Rome and, unknown to me, a French girl sitting at the next table was drawing me as I was talking on the phone.\n\nShe’s talented. She explained that she’s an art student and likes to do this when she travels.\n\n<img src=\"uploads/2024/4a42486cc3.jpg\" width=\"600\" height=\"337\" alt=\"A sketch of me in an artist’s notebook. I am talking on the phone with a drink in front of me on a table. \">\n",
+				"content_text": "Stopped for a lunchtime drink at a bar in Rome and, unknown to me, a French girl sitting at the next table was drawing me as I was talking on the phone.\n\nShe’s talented. She explained that she’s an art student and likes to do this when she travels.\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/4a42486cc3.jpg\" width=\"600\" height=\"337\" alt=\"A sketch of me in an artist’s notebook. I am talking on the phone with a drink in front of me on a table. \">\n",
 				"date_published": "2024-10-26T17:51:22+01:00",
 				"url": "https://www.olisharman.com/2024/10/26/stopped-for-a.html",
 				"tags": ["photos"]
@@ -81,7 +107,7 @@
 				"id": "http://olisharman.micro.blog/2024/10/26/the-room-in.html",
 				
 				"content_html": "<p>The room in Rome where John Keats died.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The room in Rome where John Keats died.\n\n<img src=\"uploads/2024/4d1c137b85.jpg\" width=\"337\" height=\"600\" alt=\"The room in Rome where John Keats died.\">\n",
+				"content_text": "The room in Rome where John Keats died.\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2024/4d1c137b85.jpg\" width=\"337\" height=\"600\" alt=\"The room in Rome where John Keats died.\">\n",
 				"date_published": "2024-10-26T10:30:02+01:00",
 				"url": "https://www.olisharman.com/2024/10/26/the-room-in.html",
 				"tags": ["photos"]
@@ -396,8 +422,7 @@
 				"content_html": "<p>Apple recently shared a great <a href=\"https://developer.apple.com/news/?id=5mcfho5g\">Q&amp;A with its UX writing team</a> from last year&rsquo;s WWDC.</p>\n<p>Lots of good insights here. If you&rsquo;re a writer it’s worth checking out the article in full, but I want to share their advice for explaining technical concepts in simple terms:</p>\n<blockquote>\n<p>First, remember that not everyone will have your level of understanding. Sometimes we get so excited about technical details that we forget the folks who might be using an app for the first time.</p>\n<p>Try explaining the concept to a friend or colleague first — or ask an engineer to give you a quick summary of a feature.</p>\n<p>From there, break down your idea into smaller components and delete anything that isn’t absolutely necessary. Technical concepts can feel even more intimidating when delivered in a big block of text. Can you link to a support page? Do people need that information in this particular moment? Offering small bits of information is always a good first step.</p>\n</blockquote>\n<p>This ‘delete anything that isn’t absolutely necessary’ applies to more than just good UX writing. It’s also solid advice for marketing copy, especially when talking to a broad audience about technical products. It&rsquo;s so easy for readers to get lost and just give up on figuring out what you’re trying to say.</p>\n<p>As they go on to say: &ldquo;Clarity should always be the priority&rdquo;.</p>\n",
 				"content_text": "Apple recently shared a great [Q&A with its UX writing team](https://developer.apple.com/news/?id=5mcfho5g) from last year's WWDC.\n\nLots of good insights here. If you're a writer it’s worth checking out the article in full, but I want to share their advice for explaining technical concepts in simple terms:\n\n> First, remember that not everyone will have your level of understanding. Sometimes we get so excited about technical details that we forget the folks who might be using an app for the first time.\n> \n> Try explaining the concept to a friend or colleague first — or ask an engineer to give you a quick summary of a feature.\n> \n> From there, break down your idea into smaller components and delete anything that isn’t absolutely necessary. Technical concepts can feel even more intimidating when delivered in a big block of text. Can you link to a support page? Do people need that information in this particular moment? Offering small bits of information is always a good first step.\n\nThis ‘delete anything that isn’t absolutely necessary’ applies to more than just good UX writing. It’s also solid advice for marketing copy, especially when talking to a broad audience about technical products. It's so easy for readers to get lost and just give up on figuring out what you’re trying to say. \n\nAs they go on to say: \"Clarity should always be the priority\".\n",
 				"date_published": "2024-02-15T21:13:30+01:00",
-				"url": "https://www.olisharman.com/2024/02/15/apple-recently-shared.html",
-				"tags": ["writing"]
+				"url": "https://www.olisharman.com/2024/02/15/apple-recently-shared.html"
 			},
 			{
 				"id": "http://olisharman.micro.blog/2024/02/13/interesting-to-hear.html",
@@ -406,7 +431,7 @@
 				"content_text": "Interesting to hear Malcolm Gladwell talk about his writing process on [MasterClass](https://www.masterclass.com/classes/malcolm-gladwell-teaches-writing). \n\nHe shared how he breaks every piece of writing down into small, numbered sections before stringing it all together and figuring out what goes where and working on transitions. He didn't mean sections like chapters in a book or even subheadings in an article, he suggested that his sections are often far more granular than that. \n\nSounds pretty basic. But this approach makes large, intimidating projects easier to handle. It also helps build a feeling of ongoing momentum. I do something similar but without the numbers. Think I'll give the numbers a go. \n",
 				"date_published": "2024-02-13T23:55:38+01:00",
 				"url": "https://www.olisharman.com/2024/02/13/interesting-to-hear.html",
-				"tags": ["thoughts","writing"]
+				"tags": ["thoughts"]
 			},
 			{
 				"id": "http://olisharman.micro.blog/2024/02/13/234559.html",
