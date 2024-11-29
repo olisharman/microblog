@@ -7,21 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2024/11/21/finished-reading-a.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781538720004\">A Life on Our Planet</a> by Sir David Attenborough 📚</p>\n",
+				"content_text": "Finished reading: [A Life on Our Planet](https://micro.blog/books/9781538720004) by Sir David Attenborough 📚\n",
+				"date_published": "2024-11-21T10:44:02+01:00",
+				"url": "https://www.olisharman.com/2024/11/21/finished-reading-a.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2024/11/19/finished-reading-a.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781998991105\">A Path Through the Jungle</a> by Prof Steve Peters 📚</p>\n<p>What a fantastic book. Strongly recommend it to anybody looking for some practical, step-by-step advice for taking more control of your mind.</p>\n<p>A quote that hit home:</p>\n<blockquote>\n<p>&ldquo;Every day that we get up, we change. We are a different person from the one who went to bed the night before. By making small changes to your thinking and behaviours, over time, you will move yourself in the direction that you want to go.&rdquo;</p>\n</blockquote>\n<p>This seems like solid advice too:</p>\n<blockquote>\n<p>&ldquo;Sometimes, life seems more like a circus than a jungle. If you see life as a circus then stay in your seat and laugh at the clowns; don’t enter the ring and risk becoming one.&rdquo;</p>\n</blockquote>\n",
+				"content_text": "Finished reading: [A Path Through the Jungle](https://micro.blog/books/9781998991105) by Prof Steve Peters 📚\r\n\r\nWhat a fantastic book. Strongly recommend it to anybody looking for some practical, step-by-step advice for taking more control of your mind.\r\n\r\nA quote that hit home:\r\n\r\n> \"Every day that we get up, we change. We are a different person from the one who went to bed the night before. By making small changes to your thinking and behaviours, over time, you will move yourself in the direction that you want to go.\"\r\n\r\nThis seems like solid advice too:\r\n\r\n> \"Sometimes, life seems more like a circus than a jungle. If you see life as a circus then stay in your seat and laugh at the clowns; don’t enter the ring and risk becoming one.\"\r\n",
+				"date_published": "2024-11-19T21:40:55+01:00",
+				"url": "https://www.olisharman.com/2024/11/19/finished-reading-a.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2024/11/18/delighted-to-have.html",
 				
 				"content_html": "<p>Delighted to have been awarded a distinction in my journalism diploma from the <a href=\"https://www.lsj.org\">London School of Journalism</a>. 🎓</p>\n",
 				"content_text": "Delighted to have been awarded a distinction in my journalism diploma from the [London School of Journalism](https://www.lsj.org). 🎓\n",
 				"date_published": "2024-11-18T14:13:06+01:00",
 				"url": "https://www.olisharman.com/2024/11/18/delighted-to-have.html"
-			},
-			{
-				"id": "http://olisharman.micro.blog/2024/11/16/a-suggestion-from.html",
-				
-				"content_html": "<p>A suggestion from psychiatrist Prof Steve Peters for the best advice to give a grandchild who may visit you on your deathbed.</p>\n<blockquote>\n<p>“It is your own mind that could stop you from being you and leading the life that you want to live. It is so important to learn to understand and manage your mind. You are going to share your mind with a Chimp!”</p>\n</blockquote>\n<p>He points out that while there is no doubt lots of good advice you could give in this hypothetical situation, none will be of much use if they don’t learn how to manage the Chimp in their mind.</p>\n<p>From <a href=\"https://micro.blog/books/9781998991105\">A Path Through the Jungle</a>. Although, if you’re interested, I’d start with the <a href=\"https://micro.blog/books/9781101610626\">Chimp Paradox</a> for an intro to his ideas.</p>\n",
-				"content_text": "A suggestion from psychiatrist Prof Steve Peters for the best advice to give a grandchild who may visit you on your deathbed.\r\n\r\n> “It is your own mind that could stop you from being you and leading the life that you want to live. It is so important to learn to understand and manage your mind. You are going to share your mind with a Chimp!”\r\n\r\nHe points out that while there is no doubt lots of good advice you could give in this hypothetical situation, none will be of much use if they don’t learn how to manage the Chimp in their mind. \r\n\r\nFrom [A Path Through the Jungle](https://micro.blog/books/9781998991105). Although, if you’re interested, I’d start with the [Chimp Paradox](https://micro.blog/books/9781101610626) for an intro to his ideas.\r\n",
-				"date_published": "2024-11-16T22:46:28+01:00",
-				"url": "https://www.olisharman.com/2024/11/16/a-suggestion-from.html",
-				"tags": ["thoughts"]
 			},
 			{
 				"id": "http://olisharman.micro.blog/2024/11/14/finished-reading-invisible.html",
