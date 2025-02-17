@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2025/02/17/finished-reading-dont-make-me.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780321648785\">Don&rsquo;t Make Me Think</a> by Steve Krug 📚</p>\n",
+				"content_text": "Finished reading: [Don't Make Me Think](https://micro.blog/books/9780321648785) by Steve Krug 📚\n",
+				"date_published": "2025-02-17T23:55:59+01:00",
+				"url": "https://www.olisharman.com/2025/02/17/finished-reading-dont-make-me.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2025/02/10/published-of-the-greener-returns.html",
 				
 				"content_html": "<p>Published: <a href=\"https://greenerreturns.substack.com/p/energy-transition-investment-tops\">#4 of the Greener Returns newsletter</a> 📝</p>\n",
