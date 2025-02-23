@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2025/02/18/just-like-it-used-to.html",
+				
+				"content_html": "<p>Just like it used to be @ Masseria le Stanzìe in Puglia.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Just like it used to be @ Masseria le Stanzìe in Puglia. \n\n<img src=\"uploads/2025/img-6604.jpg\" width=\"337\" height=\"600\" alt=\"A single bedroom in a southern Italian masseria decorated as though it was the start of the 20th century.\">\n",
+				"date_published": "2025-02-18T00:10:26+01:00",
+				"url": "https://www.olisharman.com/2025/02/18/just-like-it-used-to.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2025/02/18/lunch-with-a-view.html",
+				
+				"content_html": "<p>Lunch with a view.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Lunch with a view. \n\n<img src=\"uploads/2025/img-6593.png\" width=\"600\" height=\"600\" alt=\"A dark room with a large wood table overlooking green countryside. \">\n",
+				"date_published": "2025-02-18T00:00:24+01:00",
+				"url": "https://www.olisharman.com/2025/02/18/lunch-with-a-view.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2025/02/17/finished-reading-dont-make-me.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780321648785\">Don&rsquo;t Make Me Think</a> by Steve Krug 📚</p>\n",
