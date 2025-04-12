@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2025/04/08/published-why-sustainability-is-your.html",
+				
+				"content_html": "<p>Published: <a href=\"https://www.olisharman.com/why-sustainability-long-term-business-strategy/\">Why Sustainability Is Your Smartest Long-Term Business Strategy</a> 📝</p>\n",
+				"content_text": "Published: [Why Sustainability Is Your Smartest Long-Term Business Strategy](https://www.olisharman.com/why-sustainability-long-term-business-strategy/) 📝\n",
+				"date_published": "2025-04-08T12:29:38+02:00",
+				"url": "https://www.olisharman.com/2025/04/08/published-why-sustainability-is-your.html",
+				"tags": ["portfolio"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2025/04/05/finished-reading-company-of-one.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780241380239\">Company of One</a> by Paul Jarvis 📚</p>\n",
+				"content_text": "Finished reading: [Company of One](https://micro.blog/books/9780241380239) by Paul Jarvis 📚\n",
+				"date_published": "2025-04-05T14:52:11+02:00",
+				"url": "https://www.olisharman.com/2025/04/05/finished-reading-company-of-one.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2025/04/04/finished-reading-how-to-avoid.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780385546140\">How to Avoid a Climate Disaster</a> by Bill Gates 📚</p>\n",
+				"content_text": "Finished reading: [How to Avoid a Climate Disaster](https://micro.blog/books/9780385546140) by Bill Gates 📚\n",
+				"date_published": "2025-04-04T11:23:51+02:00",
+				"url": "https://www.olisharman.com/2025/04/04/finished-reading-how-to-avoid.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2025/04/02/published-saas-retention-and-engagement.html",
 				
 				"content_html": "<p>Published: <a href=\"https://www.olisharman.com/saas-retention-and-engagement-10-things-get-right/\">SaaS Retention and Engagement: 10 Things to Get Right</a> 📝</p>\n",
@@ -37,7 +64,7 @@
 				"id": "http://olisharman.micro.blog/2025/02/18/just-like-it-used-to.html",
 				
 				"content_html": "<p>Just like it used to be @ Masseria le Stanzìe in Puglia.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just like it used to be @ Masseria le Stanzìe in Puglia. \n\n<img src=\"uploads/2025/img-6604.jpg\" width=\"337\" height=\"600\" alt=\"A single bedroom in a southern Italian masseria decorated as though it was the start of the 20th century.\">\n",
+				"content_text": "Just like it used to be @ Masseria le Stanzìe in Puglia. \n\n<img src=\"https://cdn.uploads.micro.blog/137736/2025/img-6604.jpg\" width=\"337\" height=\"600\" alt=\"A single bedroom in a southern Italian masseria decorated as though it was the start of the 20th century.\">\n",
 				"date_published": "2025-02-18T01:10:26+02:00",
 				"url": "https://www.olisharman.com/2025/02/18/just-like-it-used-to.html",
 				"tags": ["photos"]
@@ -46,7 +73,7 @@
 				"id": "http://olisharman.micro.blog/2025/02/18/lunch-with-a-view.html",
 				
 				"content_html": "<p>Lunch with a view.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lunch with a view. \n\n<img src=\"uploads/2025/img-6593.png\" width=\"600\" height=\"600\" alt=\"A dark room with a large wood table overlooking green countryside. \">\n",
+				"content_text": "Lunch with a view. \n\n<img src=\"https://cdn.uploads.micro.blog/137736/2025/img-6593.png\" width=\"600\" height=\"600\" alt=\"A dark room with a large wood table overlooking green countryside. \">\n",
 				"date_published": "2025-02-18T01:00:24+02:00",
 				"url": "https://www.olisharman.com/2025/02/18/lunch-with-a-view.html",
 				"tags": ["photos"]
@@ -66,8 +93,7 @@
 				"content_html": "<p>Published: <a href=\"https://greenerreturns.substack.com/p/energy-transition-investment-tops\">#4 of the Greener Returns newsletter</a> 📝</p>\n",
 				"content_text": "Published: [#4 of the Greener Returns newsletter](https://greenerreturns.substack.com/p/energy-transition-investment-tops) 📝\n",
 				"date_published": "2025-02-10T14:16:53+02:00",
-				"url": "https://www.olisharman.com/2025/02/10/published-of-the-greener-returns.html",
-				"tags": ["sustainability"]
+				"url": "https://www.olisharman.com/2025/02/10/published-of-the-greener-returns.html"
 			},
 			{
 				"id": "http://olisharman.micro.blog/2025/02/03/finished-reading-nexus-by-yuval.html",
@@ -93,8 +119,7 @@
 				"content_html": "<p>Published: <a href=\"https://greenerreturns.substack.com/p/trump-stomps-on-climate-policy-bloomberg\">#3 of the Greener Returns newsletter</a> 📝</p>\n",
 				"content_text": "Published: [#3 of the Greener Returns newsletter](https://greenerreturns.substack.com/p/trump-stomps-on-climate-policy-bloomberg) 📝\n",
 				"date_published": "2025-01-27T13:06:37+02:00",
-				"url": "https://www.olisharman.com/2025/01/27/published-of-the-greener-returns.html",
-				"tags": ["sustainability"]
+				"url": "https://www.olisharman.com/2025/01/27/published-of-the-greener-returns.html"
 			},
 			{
 				"id": "http://olisharman.micro.blog/2025/01/27/finished-reading-selected-poems-by.html",
@@ -120,8 +145,7 @@
 				"content_html": "<p>Published: <a href=\"https://greenerreturns.substack.com/p/credit-where-carbons-due-making-use\">#2 of the Greener Returns newsletter</a> 📝</p>\n",
 				"content_text": "Published: [#2 of the Greener Returns newsletter](https://greenerreturns.substack.com/p/credit-where-carbons-due-making-use) 📝\n",
 				"date_published": "2025-01-20T12:18:07+02:00",
-				"url": "https://www.olisharman.com/2025/01/20/published-of-the-greener-returns.html",
-				"tags": ["sustainability"]
+				"url": "https://www.olisharman.com/2025/01/20/published-of-the-greener-returns.html"
 			},
 			{
 				"id": "http://olisharman.micro.blog/2025/01/17/finished-reading-whats-our-problem.html",
@@ -138,8 +162,7 @@
 				"content_html": "<p>Published: <a href=\"https://greenerreturns.substack.com/p/hottest-year-on-record-net-zero-banking\">#1 of the Greener Returns newsletter</a>. 📝</p>\n<p>This is a new project of mine. Here’s a link where you can <a href=\"https://greenerreturns.substack.com/about\">learn more and subscribe</a>.</p>\n",
 				"content_text": "Published: [#1 of the Greener Returns newsletter](https://greenerreturns.substack.com/p/hottest-year-on-record-net-zero-banking). 📝 \n\nThis is a new project of mine. Here’s a link where you can [learn more and subscribe](https://greenerreturns.substack.com/about).\n",
 				"date_published": "2025-01-13T12:47:05+02:00",
-				"url": "https://www.olisharman.com/2025/01/13/published-of-the-greener-returns.html",
-				"tags": ["sustainability"]
+				"url": "https://www.olisharman.com/2025/01/13/published-of-the-greener-returns.html"
 			},
 			{
 				"id": "http://olisharman.micro.blog/2024/12/31/finished-reading-orbital-by-samantha.html",
