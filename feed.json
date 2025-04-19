@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2025/04/19/grotta-della-poesia-in-salento.html",
+				
+				"content_html": "<p>Grotta della Poesia in Salento is beautiful at this time of the year.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Grotta della Poesia in Salento is beautiful at this time of the year. \n\n<img src=\"uploads/2025/img-6795.jpg\" width=\"337\" height=\"600\" alt=\"Grotta della Poesia in Salento. It is a circular pool of seawater surrounded by cliffs. The sky is clear and blue and the water in the pool is light blue.\">\n",
+				"date_published": "2025-04-19T17:23:10+02:00",
+				"url": "https://www.olisharman.com/2025/04/19/grotta-della-poesia-in-salento.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://olisharman.micro.blog/2025/04/12/finished-rereading-rework-by-jason.html",
+				
+				"content_html": "<p>Finished rereading: <a href=\"https://micro.blog/books/9780307463760\">Rework</a> by Jason Fried &amp; David Heinemeier Hansson 📚</p>\n",
+				"content_text": "Finished rereading: [Rework](https://micro.blog/books/9780307463760) by Jason Fried & David Heinemeier Hansson 📚\n",
+				"date_published": "2025-04-12T20:59:05+02:00",
+				"url": "https://www.olisharman.com/2025/04/12/finished-rereading-rework-by-jason.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2025/04/08/published-why-sustainability-is-your.html",
 				
 				"content_html": "<p>Published: <a href=\"https://www.olisharman.com/why-sustainability-long-term-business-strategy/\">Why Sustainability Is Your Smartest Long-Term Business Strategy</a> 📝</p>\n",
@@ -46,7 +64,7 @@
 				"id": "http://olisharman.micro.blog/2025/03/04/my-home-office-now-feels.html",
 				
 				"content_html": "<p>My home office now feels more like home.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My home office now feels more like home.\n\n<img src=\"uploads/2025/homeoffice.jpg\" width=\"600\" height=\"600\" alt=\"A poster of british bird illustrations and a bookshelf\">\n",
+				"content_text": "My home office now feels more like home.\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2025/homeoffice.jpg\" width=\"600\" height=\"600\" alt=\"A poster of british bird illustrations and a bookshelf\">\n",
 				"date_published": "2025-03-04T15:40:10+02:00",
 				"url": "https://www.olisharman.com/2025/03/04/my-home-office-now-feels.html",
 				"tags": ["photos"]
@@ -348,15 +366,6 @@
 				"date_published": "2024-10-25T23:35:43+02:00",
 				"url": "https://www.olisharman.com/2024/10/25/walked-past-some.html",
 				"tags": ["photos"]
-			},
-			{
-				"id": "http://olisharman.micro.blog/2024/10/20/coming-from-an.html",
-				
-				"content_html": "<blockquote>\n<p>“Coming from an ‘empty’ world with abundant natural resources, the Industrial Revolution brought prosperity in the form of economic and population growth. At the same time, this growth—based on production processes dependent on fossil fuels and other natural resources—has created social and environmental challenges.&quot;</p>\n</blockquote>\n<p>A succinct assessment of the path we&rsquo;re on in the <a href=\"https://micro.blog/books/9780198826606\">Principles of Sustainable Finance</a> by Dirk Schoenmaker and Willem Schramade. Great read so far.</p>\n<p>What will it take to make corporate profits and shareholder returns much less of a factor when measuring the performance, or &lsquo;growth&rsquo;, of businesses?</p>\n",
-				"content_text": "> “Coming from an ‘empty’ world with abundant natural resources, the Industrial Revolution brought prosperity in the form of economic and population growth. At the same time, this growth—based on production processes dependent on fossil fuels and other natural resources—has created social and environmental challenges.\"\n\nA succinct assessment of the path we're on in the [Principles of Sustainable Finance](https://micro.blog/books/9780198826606) by Dirk Schoenmaker and Willem Schramade. Great read so far. \n\nWhat will it take to make corporate profits and shareholder returns much less of a factor when measuring the performance, or 'growth', of businesses?\n",
-				"date_published": "2024-10-20T20:00:04+02:00",
-				"url": "https://www.olisharman.com/2024/10/20/coming-from-an.html",
-				"tags": ["thoughts"]
 			},
 			{
 				"id": "http://olisharman.micro.blog/2024/10/17/being-kind-to.html",
