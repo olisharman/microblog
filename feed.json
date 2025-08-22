@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2025/08/10/finished-reading-the-rattle-bag.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780571225835\">The Rattle Bag</a> by Seamus Heaney and Ted Hughes 📚</p>\n",
+				"content_text": "Finished reading: [The Rattle Bag](https://micro.blog/books/9780571225835) by Seamus Heaney and Ted Hughes 📚\n",
+				"date_published": "2025-08-10T18:04:30+02:00",
+				"url": "https://www.olisharman.com/2025/08/10/finished-reading-the-rattle-bag.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2025/07/20/i-asked-gemini-to-give.html",
 				
-				"content_html": "<p>I asked Gemini to give me a list of science fiction movie recommendations to help convert my girlfriend into a fan of the genre.</p>\n<p>Top of the list was Her. We just finished it. It&rsquo;s about a man who falls in love with AI. Beautiful movie, but the context is scary.</p>\n",
-				"content_text": "I asked Gemini to give me a list of science fiction movie recommendations to help convert my girlfriend into a fan of the genre.\n\nTop of the list was Her. We just finished it. It's about a man who falls in love with AI. Beautiful movie, but the context is scary.\n",
+				"content_html": "<p>I asked Gemini to give me a list of science fiction movie recommendations to help convert my girlfriend into a fan of the genre.</p>\n<p>Top of the list was <a href=\"https://www.imdb.com/title/tt1798709/\">Her</a>. We just finished it. It&rsquo;s about a man who falls in love with an AI.</p>\n<p>Beautiful movie, but the context is scary.</p>\n",
+				"content_text": "I asked Gemini to give me a list of science fiction movie recommendations to help convert my girlfriend into a fan of the genre.\n\nTop of the list was [Her](https://www.imdb.com/title/tt1798709/). We just finished it. It's about a man who falls in love with an AI.  \n\nBeautiful movie, but the context is scary.\n",
 				"date_published": "2025-07-20T12:56:01+02:00",
 				"url": "https://www.olisharman.com/2025/07/20/i-asked-gemini-to-give.html",
 				"tags": ["thoughts"]
@@ -55,7 +64,7 @@
 				"id": "http://olisharman.micro.blog/2025/06/12/its-always-a-pleasure-to.html",
 				
 				"content_html": "<p>It&rsquo;s always a pleasure to take this gentleman for a walk in the English countryside.</p>\n<p>This is a rare example of him standing still long enough for a photo that isn&rsquo;t blurry.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It's always a pleasure to take this gentleman for a walk in the English countryside. \r\n\r\nThis is a rare example of him standing still long enough for a photo that isn't blurry. \n\n<img src=\"uploads/2025/img-6927.jpg\" width=\"337\" height=\"600\" alt=\"A spaniel dog on a heath with a house and a windmill at the top of a grassy hill.\">\n",
+				"content_text": "It's always a pleasure to take this gentleman for a walk in the English countryside. \r\n\r\nThis is a rare example of him standing still long enough for a photo that isn't blurry. \n\n<img src=\"https://cdn.uploads.micro.blog/137736/2025/img-6927.jpg\" width=\"337\" height=\"600\" alt=\"A spaniel dog on a heath with a house and a windmill at the top of a grassy hill.\">\n",
 				"date_published": "2025-06-12T23:12:42+02:00",
 				"url": "https://www.olisharman.com/2025/06/12/its-always-a-pleasure-to.html",
 				"tags": ["photos"]
