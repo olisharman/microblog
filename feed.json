@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://olisharman.micro.blog/2026/04/28/finished-reading-the-pragmatic-programmer.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780135956915\">The Pragmatic Programmer</a> by David Thomas and Andrew Hunt 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780135956915/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Pragmatic Programmer](https://micro.blog/books/9780135956915) by David Thomas and Andrew Hunt 📚\n",
+				"date_published": "2026-04-28T15:50:54+02:00",
+				"url": "https://www.olisharman.com/2026/04/28/finished-reading-the-pragmatic-programmer.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://olisharman.micro.blog/2026/04/26/the-restaurant-in-masseria-montenapoleone.html",
 				
 				"content_html": "<p>The restaurant in Masseria Montenapoleone doesn’t disappoint.</p>\n<p>It’s a beautiful masseria in the Puglia countryside that grows much of what it serves.</p>\n<!-- raw HTML omitted -->\n",
@@ -45,7 +54,7 @@
 				"id": "http://olisharman.micro.blog/2026/04/04/taverna-del-porto-in-puglia.html",
 				
 				"content_html": "<p>Taverna del Porto in Puglia, Italy.</p>\n<p>The food is as good as the view.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Taverna del Porto in Puglia, Italy.\n\nThe food is as good as the view.\n\n\n\n<img src=\"uploads/2026/taverna-del-porto.jpg\" width=\"337\" height=\"600\" alt=\"A wooden table in a restaurant with a large window looking over a view of the sea.\">\n",
+				"content_text": "Taverna del Porto in Puglia, Italy.\n\nThe food is as good as the view.\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/137736/2026/taverna-del-porto.jpg\" width=\"337\" height=\"600\" alt=\"A wooden table in a restaurant with a large window looking over a view of the sea.\">\n",
 				"date_published": "2026-04-04T17:06:57+02:00",
 				"url": "https://www.olisharman.com/2026/04/04/taverna-del-porto-in-puglia.html",
 				"tags": ["photos"]
@@ -226,8 +235,7 @@
 				"content_html": "<p>Published: <a href=\"https://www.olisharman.com/why-sustainability-long-term-business-strategy/\">Why Sustainability Is Your Smartest Long-Term Business Strategy</a> 📝</p>\n",
 				"content_text": "Published: [Why Sustainability Is Your Smartest Long-Term Business Strategy](https://www.olisharman.com/why-sustainability-long-term-business-strategy/) 📝\n",
 				"date_published": "2025-04-08T12:29:38+02:00",
-				"url": "https://www.olisharman.com/2025/04/08/published-why-sustainability-is-your.html",
-				"tags": ["portfolio"]
+				"url": "https://www.olisharman.com/2025/04/08/published-why-sustainability-is-your.html"
 			},
 			{
 				"id": "http://olisharman.micro.blog/2025/04/05/finished-reading-company-of-one.html",
@@ -253,8 +261,7 @@
 				"content_html": "<p>Published: <a href=\"https://www.olisharman.com/saas-retention-and-engagement-10-things-get-right/\">SaaS Retention and Engagement: 10 Things to Get Right</a> 📝</p>\n",
 				"content_text": "Published: [SaaS Retention and Engagement: 10 Things to Get Right](https://www.olisharman.com/saas-retention-and-engagement-10-things-get-right/) 📝\n",
 				"date_published": "2025-04-02T12:18:17+02:00",
-				"url": "https://www.olisharman.com/2025/04/02/published-saas-retention-and-engagement.html",
-				"tags": ["portfolio"]
+				"url": "https://www.olisharman.com/2025/04/02/published-saas-retention-and-engagement.html"
 			},
 			{
 				"id": "http://olisharman.micro.blog/2025/03/04/my-home-office-now-feels.html",
